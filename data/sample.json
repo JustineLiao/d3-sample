@@ -1,0 +1,281 @@
+{
+  "name": "All",
+  "children": [
+    {
+      "name": "Sam",
+      "children": [
+        {
+          "name": "密文操作",
+          "children": [
+            {
+              "name": "開啟密文",
+                "size": 512
+            },
+            {
+              "name": "編輯密文",
+              "size": 254
+            },
+            {
+              "name": "刪除密文",
+              "size": 43
+            }
+          ]
+        },
+        {
+          "name": "明文操作",
+          "children": [
+            {
+              "name": "開啟檔案",
+              "size": 143
+            },
+            {
+              "name": "移動檔案",
+              "size": 22
+            }
+          ]
+        },
+        {
+          "name": "解密",
+          "children": [
+            {
+              "name": "自行解密",
+              "size": 37
+            },
+            {
+              "name": "申請解密",
+              "size": 0
+            }
+          ]
+        },
+        {
+          "name": "轉流通",
+          "children": [
+            {
+              "name": "自行轉流通",
+              "size": 260
+            },
+            {
+              "name": "申請轉流通",
+              "size": 33
+            }
+          ]
+        },
+        {
+          "name": "登入",
+          "size": 174
+        },
+        {
+          "name": "管理員操作",
+          "size": 20
+        }
+      ]
+    },
+    {
+      "name": "Adam",
+      "children": [
+        {
+          "name": "密文操作",
+          "children": [
+            {
+              "name": "開啟密文",
+              "size": 222
+            },
+            {
+              "name": "編輯密文",
+              "size": 176
+            },
+            {
+              "name": "刪除密文",
+              "size": 43
+            }
+          ]
+        },
+        {
+          "name": "明文操作",
+          "children": [
+            {
+              "name": "開啟檔案",
+              "size": 402
+            },
+            {
+              "name": "移動檔案",
+              "size": 22
+            }
+          ]
+        },
+        {
+          "name": "解密",
+          "children": [
+            {
+              "name": "自行解密",
+              "size": 0
+            },
+            {
+              "name": "申請解密",
+              "size": 57
+            }
+          ]
+        },
+        {
+          "name": "轉流通",
+          "children": [
+            {
+              "name": "自行轉流通",
+              "size": 0
+            },
+            {
+              "name": "申請轉流通",
+              "size": 33
+            }
+          ]
+        },
+        {
+          "name": "登入",
+          "size": 87
+        },
+        {
+          "name": "管理員操作",
+          "size": 0
+        }
+      ]
+    },
+    {
+      "name": "Kelly",
+      "children": [
+        {
+          "name": "密文操作",
+          "children": [
+            {
+              "name": "開啟密文",
+              "size": 312
+            },
+            {
+              "name": "編輯密文",
+              "size": 254
+            },
+            {
+              "name": "刪除密文",
+              "size": 43
+            }
+          ]
+        },
+        {
+          "name": "明文操作",
+          "children": [
+            {
+              "name": "開啟檔案",
+              "size": 143
+            },
+            {
+              "name": "移動檔案",
+              "size": 22
+            }
+          ]
+        },
+        {
+          "name": "解密",
+          "children": [
+            {
+              "name": "自行解密",
+              "size": 37
+            },
+            {
+              "name": "申請解密",
+              "size": 0
+            }
+          ]
+        },
+        {
+          "name": "轉流通",
+          "children": [
+            {
+              "name": "自行轉流通",
+              "size": 0
+            },
+            {
+              "name": "申請轉流通",
+              "size": 0
+            }
+          ]
+        },
+        {
+          "name": "登入",
+          "size": 87
+        },
+        {
+          "name": "管理員操作",
+          "size": 0
+        }
+      ]
+    },
+    {
+      "name": "Jack",
+      "children": [
+        {
+          "name": "密文操作",
+          "children": [
+            {
+              "name": "開啟密文",
+              "size": 262
+            },
+            {
+              "name": "編輯密文",
+              "size": 100
+            },
+            {
+              "name": "刪除密文",
+              "size": 43
+            }
+          ]
+        },
+        {
+          "name": "明文操作",
+          "children": [
+            {
+              "name": "開啟檔案",
+              "size": 143
+            },
+            {
+              "name": "移動檔案",
+              "size": 22
+            }
+          ]
+        },
+        {
+          "name": "解密",
+          "children": [
+            {
+              "name": "自行解密",
+              "size": 20
+            },
+            {
+              "name": "申請解密",
+              "size": 50
+            }
+          ]
+        },
+        {
+          "name": "轉流通",
+          "children": [
+            {
+              "name": "自行轉流通",
+              "size": 15
+            },
+            {
+              "name": "申請轉流通",
+              "size": 0
+            }
+          ]
+        },
+        {
+          "name": "登入",
+          "size": 188
+        },
+        {
+          "name": "管理員操作",
+          "size": 20
+        }
+      ]
+    }
+  ]
+}
